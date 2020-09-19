@@ -1,3 +1,8 @@
+#pragma once
+//страж включений
+
+#include <iostream>
+
 namespace vector
 {
     template<class T>
